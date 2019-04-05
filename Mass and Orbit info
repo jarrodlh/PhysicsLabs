@@ -1,4 +1,5 @@
 Black Holes masses will be in solar units
 Orbital speeds for inital black hole velocities will be calculated by Sqrt(G*M/R)
-Location of the black holes is determined by placing them on oposite sides of a circle
+Inital location of the black holes is determined by placing them on oposite sides of a circle
 Assume the star is massless so that the black hole's orbit stays stable
+Black holes will be 1000 solar masses and seperated by 10 AU for an orbital speed of 9.96*10^-4 times the speed of light
